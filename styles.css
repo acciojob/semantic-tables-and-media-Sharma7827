@@ -1,2 +1,23 @@
+ table{
+            width: 50%;
+            margin-bottom: 20px;
+        }
 
-/* Your CSS Code here. */
+        th, td {
+            border: 1px solid #000;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f0f0f0;
+        }
+
+        h2 {
+            margin: 20px 0;
+        }
+        
+        img,video{
+            width: 300px;
+            height: 200%;
+        }
